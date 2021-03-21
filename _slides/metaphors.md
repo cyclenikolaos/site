@@ -29,4 +29,5 @@ slides:
   - messenger
   - notifications
   - google-now
+  - multitouch
 ---
