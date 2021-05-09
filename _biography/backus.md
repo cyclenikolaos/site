@@ -1,7 +1,7 @@
 ---
 author: cyclenikolaos
 title: "John W. Backus"
-image_url: /images/backus.jpg
+image_url: /images/backus.png
 caption: "O John W. Backus ως προγραμματιστής της IBM, δημιούργησε τη γλώσσα προγραμματισμου FORTRAN για να διευκολύνει τη διαδικασία προγραμματισμού υπολογιστών σε κώδικα μηχανής"
 categories:
   - Βιογραφία 
